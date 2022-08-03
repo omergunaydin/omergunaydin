@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! I'm Ömer from Turkey. I do content on Design and Development. Ömer is a Anroid Developer with 5+ years of experience in Native Andro,d Apps. He has been creating reliable, scalable, high-performance mobile applications. I'am a Flutter developer with a relentless curiosity in technology, design, and business. 
+Hi! I'm Ömer from Turkey. I do content on Design and Development. I'm an Android Developer with more than 5 years of experience developing freelance jobs. I have been creating reliable, scalable, high-performance mobile applications. I stopped developing applications with Java for 2 years and decided to write my new applications by learning Flutter and Dart. Now, I'am a Flutter developer with a relentless curiosity in technology, design, and business. 
+
 - 🔭 I’m currently working on Flutter <br>
 - 🌱 I’m currently learning Flutter & Dart
 
